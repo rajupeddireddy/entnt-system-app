@@ -1,4 +1,4 @@
-# entnt-system-app
+# Simplified ERP System with React
 
   - open your VS code teriminal and run 
           "git clone https://github.com/rajupeddireddy/entnt-system-app.git"
