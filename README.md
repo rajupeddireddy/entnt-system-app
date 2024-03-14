@@ -1,7 +1,6 @@
 # entnt-system-app
 
-step-1:
-      - open your VS code teriminal and run 
+  - open your VS code teriminal and run 
           "git clone https://github.com/rajupeddireddy/entnt-system-app.git"
       - after that open the code and run 
          "npm install" 
