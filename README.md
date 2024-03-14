@@ -9,7 +9,7 @@ step-1:
          "npm start" 
 Now, your're able to see the localhost: 
 
-If you face any issue during this proce feel free to reach out to me 
+If you face any issue during this process, feel free to reach out to me 
    email: rajupeddireddy9493@gmail.com 
    
       
