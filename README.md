@@ -5,7 +5,8 @@
       - after that open the code and run 
          "npm install" 
       - next 
-         "npm start" 
+         "npm start"
+        
 Now, your're able to see the localhost: 
 
 If you face any issue during this process, feel free to reach out to me 
