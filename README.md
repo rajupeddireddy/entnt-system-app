@@ -2,11 +2,11 @@
 
 step-1:
       - open your VS code teriminal and run 
-          git clone https://github.com/rajupeddireddy/entnt-system-app.git 
+          "git clone https://github.com/rajupeddireddy/entnt-system-app.git"
       - after that open the code and run 
-         npm install 
+         "npm install" 
       - next 
-         npm start 
+         "npm start" 
 Now, your're able to see the localhost: 
 
 If you face any issue during this proce feel free to reach out to me 
