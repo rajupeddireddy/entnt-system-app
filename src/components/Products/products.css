@@ -1,0 +1,13 @@
+.dahboard-heading{
+    font-family: "Roboto";
+    color: #000;
+    font-size: 26px;
+    line-height: 1;
+    padding-bottom: 0;
+    margin-bottom: 10px;
+  }
+  .horizontalline{
+    border-bottom-width: 0.5px;
+    width: 60%;
+    border-color: #bfbfbf
+  }
